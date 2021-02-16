@@ -1,1 +1,1 @@
-print("Hello world")
+print("Hey is Python a Snake? or Just a Dangerous Language Like Python?")
