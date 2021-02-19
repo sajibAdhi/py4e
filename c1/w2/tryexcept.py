@@ -10,6 +10,7 @@ print('First ', str)
 inte = input('Write Anything Integer: ')
 
 try:
+    print('Hello ')
     inte = int(inte)
 except:
     inte = -1
