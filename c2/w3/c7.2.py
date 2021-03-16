@@ -8,8 +8,8 @@ for line in fh:
         continue
     count = count+1
     startPos = line.find(':')
-    value = line[startPos:]
+    value = line[startPos+1:]
     value = float(value)
     totalValue = totalValue + value
 avg = totalValue/count
-print("Average spam confidence: ", avg)
+print("Average spam confidence:", avg)
