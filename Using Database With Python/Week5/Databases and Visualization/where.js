@@ -8,14 +8,5 @@ myData = [
 [38.0399391,23.8030901, 'Monumental Plaza, Building C, 1st Floor, Leof. Kifisias 44, Marousi 151 25, Greece'],
 [28.3588163,75.58802039999999, 'Vidya Vihar, Pilani, Rajasthan 333031, India'],
 [6.891986300000001,3.7181286, '121103, Ilishan-Remo, Nigeria'],
-[25.2677203,82.99125819999999, 'Ajagara, Varanasi, Uttar Pradesh 221005, India'],
-[12.9504048,77.5020617, 'Mysore Rd, Jnana Bharathi, Bengaluru, Karnataka 560056, India'],
-[31.5488923,-97.1130573, '1311 S 5th St, Waco, TX 76706, USA'],
-[39.9619537,116.3662615, '19 Xinjiekou Outer St, Bei Tai Ping Zhuang, Haidian Qu, Beijing Shi, China, 100875'],
-[53.8938988,27.5460609, 'prasp. Niezaliežnasci 4, Minsk, Belarus'],
-[44.8184518,20.4575913, 'Studentski trg 1, Beograd, Serbia'],
-[42.5030333,-89.0309048, '700 College St, Beloit, WI 53511, USA'],
-[53.8938988,27.5460609, 'prasp. Niezaliežnasci 4, Minsk, Belarus'],
-[43.76908419999999,-79.4692584, '1000 Finch Ave W, North York, ON M3J 2V5, Canada'],
-[10.6779085,78.74454879999999, 'Palkalaiperur, Tiruchirappalli, Tamil Nadu 620024, India']
+[25.2677203,82.99125819999999, 'Ajagara, Varanasi, Uttar Pradesh 221005, India']
 ];
